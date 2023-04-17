@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "59d9d4c1-426a-4bcf-b017-7d040645ed5c"
+      }
+    },
+    "owner": "onkar97"
   }
 }
